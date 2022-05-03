@@ -7,10 +7,4 @@ def isMonotonic(arr):
     else:
         print("Exception Occured")
 
-
-
-
-
-
-
-
+#def isConvex(x, y):
